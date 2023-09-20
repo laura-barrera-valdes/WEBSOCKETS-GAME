@@ -1,0 +1,21 @@
+{
+  "name": "websokets-game",
+  "version": "1.0.0",
+  "description": "Enrutamiento usando Express Router para que no queden todas las rutas y los elementos en index.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "p5": "^1.7.0",
+    "socket.io": "^4.7.2",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {}
+}
